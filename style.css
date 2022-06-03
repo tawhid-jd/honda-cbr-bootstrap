@@ -1,0 +1,30 @@
+    .top-header {
+        background-color: rgba(38, 70, 83, 1);
+        color: white;
+    }
+
+
+
+    .navbar {
+        background-color: rgba(38, 70, 83, 1);
+    }
+
+    .collapse a {
+        text-decoration: none;
+        color: white;
+    }
+
+    #login {
+        color: white;
+        background-color: #E76F51;
+    }
+
+    #purchase {
+        color: white;
+        background-color: #E76F51;
+    }
+
+    /* main container  */
+    .filter {
+        filter: grayscale(100%);
+    }
